@@ -1,4 +1,4 @@
-# 📝 Serverless Content Generation Platform using AWS Bedrock
+# 📝 Serverless Content Generation using AWS Bedrock
 
 This project is a **serverless content generation application** built using **AWS Bedrock** and core AWS services. It exposes a REST API that accepts a blog topic, generates a blog using a foundation model hosted on AWS Bedrock, and stores the generated content in Amazon S3.
 
